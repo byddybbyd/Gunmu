@@ -1,7 +1,7 @@
 # 棍母（Gunmu）[^1]
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0.html) ![GitHub Stars](https://img.shields.io/github/stars/byddybbyd/Gunmu?style=social)
 > [!NOTE]
-> 尊重一下老人，不放原图
+> 尊重一下老人，不放原图  
 **一个高效、灵活的&emsp;系统**
 
 ---
